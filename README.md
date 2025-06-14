@@ -38,3 +38,4 @@ pnpm build
 pnpm lint
 ```
 # Anole-Cli
+A Vite-managed front-end scaffolding project based on Vue3 
